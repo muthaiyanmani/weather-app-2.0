@@ -1,4 +1,4 @@
-import axios,{ AxiosResponse } from 'axios';
+import axios from 'axios';
 
 
 let API_KEY = "a8e71c9932b20c4ceb0aed183e6a83bb";
